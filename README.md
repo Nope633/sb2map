@@ -34,27 +34,15 @@
 [1_AR15.clm](https://github.com/Nope633/sb2map/blob/main/1_AR15.clm) AR-15を信仰する人たちの教会と、基地やコンビニがある配布マップです。  
 [2_school.clm](https://github.com/Nope633/sb2map/blob/main/2_school.clm) 学校と[鉤十字](https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%BC%E3%82%B1%E3%83%B3%E3%82%AF%E3%83%AD%E3%82%A4%E3%83%84)がある配布マップです。  
 [3_desert.clm](https://github.com/Nope633/sb2map/blob/main/3_desert.clm) 初代SimpleSandboxの砂漠マップを再現した配布マップです。ゴミがあるので使う際にはそれを片付けてから使うことをお勧めします。  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[4_bar.clm](https://github.com/Nope633/sb2map/blob/main/4_bar.clm) 文字通りバーがある配布マップです二階にはマフィアの拠点があります。  
+[5_heavn.clm](https://github.com/Nope633/sb2map/blob/main/5_heavn.clm) "アビス"を目指す人たちの町の配布マップです。  
+[6_city.clm](https://github.com/Nope633/sb2map/blob/main/6_city.clm) 裏路地にひっそりとある[反乱派](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%83%AB%E3%83%A9%E3%83%B3%E3%83%89%E5%85%B1%E5%92%8C%E8%BB%8D)の拠点がある配布マップです。  
+[7_smovie theatre.clm](https://github.com/Nope633/sb2map/blob/main/7_smovie%20theatre.clm) もとからある映画館のマップです。 
 
 
 ・導入方法について
 
-必要なもの 
+必要なもの  
 SimpleSandBox2  
 [ファイルマネージャー](https://play.google.com/store/apps/details?id=com.alphainventor.filemanager) 
 
