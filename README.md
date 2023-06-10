@@ -35,9 +35,10 @@
 SimpleSandBox2  
 [ファイルマネージャー](https://play.google.com/store/apps/details?id=com.alphainventor.filemanager) 
 
-1.まずView Codeを押して、ファイルを表示します。そこでお好きなマップファイルをタップし、下の画面に移ります
+1.まずView Codeを押して、ファイルを表示します。そこでお好きなマップファイルをタップし画面右にある"・・・"を押してDownloadを押します。
 
-![画像1](./画像1)
+![画像1](./画像1.png) 
+
 
 
 
