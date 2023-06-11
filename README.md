@@ -37,7 +37,7 @@
 [4_bar.clm](https://github.com/Nope633/sb2map/blob/main/4_bar.clm) 文字通りバーがある配布マップです二階にはマフィアの拠点があります。  
 [5_heavn.clm](https://github.com/Nope633/sb2map/blob/main/5_heavn.clm) "アビス"を目指す人たちの町の配布マップです。  
 [6_city.clm](https://github.com/Nope633/sb2map/blob/main/6_city.clm) 裏路地にひっそりとある[反乱派](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%83%AB%E3%83%A9%E3%83%B3%E3%83%89%E5%85%B1%E5%92%8C%E8%BB%8D)の拠点がある配布マップです。  
-~~7_smovie theatre.clm もとからある映画館のマップです。 ~~
+~~7_smovie theatre.clm もとからある映画館のマップです。~~
 
 
 ・導入方法について
