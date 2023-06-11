@@ -2,7 +2,7 @@
 導入方法や規約、各マップの詳細が記載してありますので**必ず**ご一読ください。
 
 
-・SimpleSandBox2配布ワールドの利用規約について 2023/06/10改訂版
+・SimpleSandBox2配布ワールドの利用規約について 2023/06/11改訂
 
 この利用規約（以下「本規約」といいます）は、配布ワールドを利用するすべてのユーザー（以下「ユーザー」といいます）に適用されます。配布ワールドの利用には、本規約の全文への同意が必要です。配布ワールドの利用を開始する前に、以下の内容をよくお読みください。また、**配布品をダウンロードした時点で**、規約に同意したものとみなします。  
 **最低でも利用制限だけはご一読お願いいたします**
@@ -37,7 +37,7 @@
 [4_bar.clm](https://github.com/Nope633/sb2map/blob/main/4_bar.clm) 文字通りバーがある配布マップです二階にはマフィアの拠点があります。  
 [5_heavn.clm](https://github.com/Nope633/sb2map/blob/main/5_heavn.clm) "アビス"を目指す人たちの町の配布マップです。  
 [6_city.clm](https://github.com/Nope633/sb2map/blob/main/6_city.clm) 裏路地にひっそりとある[反乱派](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%83%AB%E3%83%A9%E3%83%B3%E3%83%89%E5%85%B1%E5%92%8C%E8%BB%8D)の拠点がある配布マップです。  
-[7_smovie theatre.clm](https://github.com/Nope633/sb2map/blob/main/7_smovie%20theatre.clm) もとからある映画館のマップです。 
+~~7_smovie theatre.clm もとからある映画館のマップです。 ~~
 
 
 ・導入方法について
